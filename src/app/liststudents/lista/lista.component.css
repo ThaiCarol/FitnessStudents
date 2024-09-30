@@ -1,3 +1,7 @@
+table {
+  width: 100%;
+}
+
 .custom-toolbar {
   background-color: #d7e3ff; /* Altere para a cor desejada */
   color: #005cbb;
